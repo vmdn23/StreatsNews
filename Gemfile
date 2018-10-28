@@ -3,6 +3,9 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.5.1'
 
+# Adds bootstrap
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+
 # Add a user authentication feature using Devise
 gem 'devise', '~> 4.4', '>= 4.4.1'
 
