@@ -15,11 +15,20 @@ This is a simple web app made with the purpose of learning more about Ruby and R
 * Acts_as_votable Gem
 
 ## How to launch
-* Clone files
-* Install correct versions of Ruby and Ruby on Rails
-* cd into StreatsNews and run rails s
-* Open up a web browser and go to localhost:3000
+* Clone the repo
+* Make sure you install the correct versions of Ruby and Ruby on Rails
+* `cd` into StreatsNews and run `rails s`
+* Open up a web browser and go to `localhost:3000`
 * Explore and enjoy
+
+## Features
+* Sign up
+* Sign in
+* Cancel/delete your account
+* Add a location/post and share a URL
+* Click to visit posted URLs
+* Users can edit and delete their own posts
+* Upvote and downvote
 
 ## Known bugs
 * Youtube links does not start at specified times even when configured to do so
