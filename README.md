@@ -1,7 +1,7 @@
 ## StreatsNews
 
 ## What is StreatsNews?
-StreatsNew is an awesome companion website for the iOS App StreetEats. Though currently still just in its early stages, it has be designed to to help Streeteat users communicate with other users. This way the community can provide useful feedback for lastest must try food carts.
+StreatsNew is an awesome companion website for the iOS App StreetEats. Though currently still just in its early stages, it has been designed to to help Streeteat users communicate with other users. This way the community can provide useful feedback for the lastest must try food carts.
 
 ## About
 This is a simple web app made with the purpose of learning more about Ruby and Ruby on Rails.
