@@ -3,6 +3,9 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.5.1'
 
+# Adds a voting feature
+gem 'acts_as_votable', '~> 0.11.1'
+
 # Adds bootstrap
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
